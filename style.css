@@ -31,7 +31,7 @@ body {
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-.buttons>div {
+.buttons > div {
     border-top: 0.5px solid #999;
     border-right: 0.5px solid #999;
 }
@@ -54,4 +54,3 @@ body {
     color: white;
     transition: 0.225s ease-in-out;
 }
-
